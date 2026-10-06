@@ -1,0 +1,11 @@
+,Date,Category,Description,Amount,Payment Method
+0,2025-06-01,Food,Lunch,350,Cash
+1,2025-06-01,Transport,Bus Fare,100,Mpesa
+2,2025-06-02,Food,Breakfast,200,Cash
+3,2025-06-03,Entertainment,Movie,800,Mpesa
+4,2025-06-04,Utilities,Internet,2500,Mpesa
+5,2025-06-05,Food,Dinner,600,Cash
+6,2025-06-06,Transport,Taxi,500,Mpesa
+7,2025-06-07,Shopping,T-shirt,1200,Card
+8,2025-06-08,Food,Lunch,400,Cash
+9,2025-06-09,Entertainment,Games,700,Mpesa
